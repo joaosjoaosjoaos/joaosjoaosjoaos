@@ -3,7 +3,7 @@
 </div>
 
 
-### Hi 👋 My name is João Santos, I'mComputer Engineering Student
+### Hey!I'm João Santos, a Computer Engineering student @ State University of Ponta Grossa
 
 
 <p>I had my first experience with code back in 2019, where I had a school project, my team agreed in building an app, and I was fortunate enough to be the one behind the computer, <b>it was just like love at first glance ✨</b>.
